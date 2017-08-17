@@ -1,0 +1,316 @@
+#main_frame{
+    width: 921px;
+    height: 928px;
+    background-color: #6F5964;
+}
+
+#header{
+    width: 921px;
+    height: 75px;
+    background-color: #F6F6F6;
+    display: inline-block;
+}
+
+h1{
+    font-family: Courier New, Courier, monospace;
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.topline{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: inline;
+    margin-left: 400px;
+}
+
+.girl_img{
+    width: 379px;
+    border: 3px solid silver;
+    margin: 25px 0px 0px 25px;
+    display: inline-block;
+}
+
+#about_header{
+    width: 460px;
+    height: 40px;
+    background: linear-gradient(#C2C2C2, #878787, #B1B1B1);
+    display: inline-block;
+    margin: 25px 0px 0px 20px;
+    vertical-align: top;
+}
+
+.about_text{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-top: 7px;
+    display: inline-block;
+}
+
+#intro{
+    width: 460px;
+    height: 214px;
+    background-color: #EDE6EC;
+    display: inline-block;
+    margin: -219px 0px 0px 434px;
+    vertical-align: top;
+}
+   
+.about_me{
+    font-family: arial;
+    font-size: 14px; 
+    padding: 5px;
+    display:inline-block;
+}
+
+#mid_section{
+    width: 918px;
+    height: 358px;
+    margin-top: -15px;
+}
+
+#mid_headers{
+    width: 921px;
+    height: 65px;
+}
+
+#mode_header{
+    width: 275px;
+    height: 40px;
+    background: linear-gradient(#C2C2C2, #878787, #B1B1B1);
+    display: inline-block;
+    margin-left: 25px;
+
+}
+
+.mode_text{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-top: 7px;
+    display: inline-block;
+}
+
+#la_mode{
+    width: 275px;
+    height: 295px;
+    background-color: #EDE6EC;
+    display: inline-block;
+    margin: -5px 0 0 25px;
+    vertical-align: top;
+}
+
+.mode_img{
+    width: 275px;
+    height: 142px;
+}
+
+.mode_para{
+    font-family: tahoma;
+    font-size: 14px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+#contacts_header{
+    width: 275px;
+    height: 40px;
+    background: linear-gradient(#C2C2C2, #878787, #B1B1B1);
+    display: inline-block;
+    margin: 20px;
+
+}
+
+.contacts_text{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-top: 7px;
+    display: inline-block;
+}
+
+#contacts{
+    width: 275px;
+    height: 294px;
+    display: inline-block;
+    background-color: #EDE6EC;
+    margin: -5px 0 0 20px;
+    vertical-align: top;
+}
+
+.fam_img{
+    width: 275px;
+    height: 142px;
+}
+
+.fam_para{
+    font-family: tahoma;
+    font-size: 14px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+#fiveeleven_header{
+    width: 275px;
+    height: 40px;
+    background: linear-gradient(#C2C2C2, #878787, #B1B1B1);
+    display: inline-block;
+ 
+
+}
+
+.eleven_text{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-top: 7px;
+    display: inline-block;
+}
+
+#fiveEleven{
+    width: 275px;
+    height: 294px;
+    display: inline-block;
+    margin: -5px 0 0 20px;
+    background-color: #EDE6EC;
+    vertical-align: top;
+}
+
+
+.fiveeleven_img{
+    width: 275px;
+    height: 142px;
+}
+
+.fiveeleven_para{
+    font-family: tahoma;
+    font-size: 14px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+#bottom_section{
+    width: 921px;
+    height: 210px;
+}
+
+#bottom_headers{
+    width: 921px;
+    height: 38px;
+    margin: -13px 0 0 14px;
+
+}
+
+#tech_header1{
+    width: 276px;
+    height: 36px;
+    background: linear-gradient(#C2C2C2, #878787, #B1B1B1);
+    display: inline-block;
+    margin: 10px 0 0 10px;
+
+}
+
+#tech_header2{
+    width: 275px;
+    height: 36px;
+    background: linear-gradient(#C2C2C2, #878787, #B1B1B1);
+    display: inline-block;
+    margin: 9px 0px 0px 20px;
+    vertical-align: top;
+   
+}
+
+#tech_header3{
+    width: 275px;
+    height: 36px;
+    background: linear-gradient(#C2C2C2, #878787, #B1B1B1);
+    display: inline-block;
+    margin: 9px 0px 0px 20px;
+    vertical-align: top;
+    
+
+}
+
+.tech_text{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding-left: 15px;
+    margin-top: 7px;
+    display: inline-block;
+}
+
+#icon_box1{
+    width: 275px;
+    height: 154px;
+    display: inline-block;
+    margin: 0px 0 0px 11px;
+    background-color: #EDE6EC;
+    vertical-align: top;   
+}
+
+#icon_box2{
+    width: 275px;
+    height: 154px;
+    display: inline-block;
+    margin: -1px 0 0px 20px;
+    background-color: #EDE6EC;
+    vertical-align: top;   
+}
+
+#icon_box3{
+    width: 275px;
+    height: 154px;
+    display: inline-block;
+    margin: -1px 0 0px 20px;
+    background-color: #EDE6EC;
+    vertical-align: top;   
+}
+
+.icon_img{
+    width: 39px;
+    margin: 6px;
+}
+
+.button_style{
+    background-color: #407D61;
+    border: 1px solid black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  12px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2), 5px 5px 5px 0px rgba(0,0,0,0.19);
+}
+
+#mode_button{
+    position: relative;
+    top: 25px;
+    right:60px;
+}
+
+#contacts_button{
+    position: relative;
+    top: 25px;
+    right: 80px;
+
+}
+
+#fiveeleven_button{
+    position: relative;
+    top: 25px;
+    right: 60px;
+
+}
